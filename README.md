@@ -10,10 +10,15 @@ I'm a passionate data science student currently pursuing my [Degree/Major] at [Y
 Skills
 
 •	Programming Languages: Python, R, SQL
-•	Data Analysis: Pandas, NumPy, Matplotlib, 
+
+•	Data Analysis: Pandas, NumPy, Matplotlib
+
 •	Machine Learning: R caret package
+
 •	Data Visualization: Tableau
+
 •	Databases: PostgreSQL
+
 •	Tools: Jupyter Notebook, Git, GitHub, RMarkdown
 
 Projects
