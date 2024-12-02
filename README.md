@@ -22,20 +22,33 @@ Skills
 •	Tools: Jupyter Notebook, Git, GitHub, RMarkdown
 
 Projects
+
 1.	Predicting Customer Churn
+
 o	Description: Developed a logistic regression model to predict which customers would churn from a telecommunications company.
+
 o	Technologies Used: R 
+
 o	Repository Link <insert repository>
 
 Education
+
 •	[Your University]
+
 o	[Degree/Major]
+
 o	[Year of Graduation]
+
 Certifications
+
 •	[Certification Name] - [Issuing Organization]
+
 •	[Certification Name] - [Issuing Organization]
+
 Contact Me
+
 •	Email: [your.email@example.com]
+
 •	LinkedIn: Your LinkedIn Profile
 
 ________________________________________
